@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dinasavra/static/css/main.6c53c327.css",
+    "main.js": "/dinasavra/static/js/main.69b2898a.js",
+    "static/js/787.1fffb58a.chunk.js": "/dinasavra/static/js/787.1fffb58a.chunk.js",
+    "static/media/dinasavra.mp4": "/dinasavra/static/media/dinasavra.f322bd1e5ceda38457c8.mp4",
+    "static/media/4.png": "/dinasavra/static/media/4.d7fd66820a3609dee7db.png",
+    "static/media/8.png": "/dinasavra/static/media/8.a6c55e23b1cd06959be8.png",
+    "static/media/12.png": "/dinasavra/static/media/12.6a72435a963456088b60.png",
+    "static/media/dina.jpeg": "/dinasavra/static/media/dina.5d9087fb9dd9fe7bbdeb.jpeg",
+    "static/media/10.png": "/dinasavra/static/media/10.8927601eac1bd3a09db3.png",
+    "static/media/3.png": "/dinasavra/static/media/3.d4e5207d196a8d80c42e.png",
+    "static/media/7.png": "/dinasavra/static/media/7.472223877e3b5a5d9164.png",
+    "static/media/6.png": "/dinasavra/static/media/6.8182dc94addc055ee8c0.png",
+    "static/media/5.png": "/dinasavra/static/media/5.6e8690f495b3a4981938.png",
+    "static/media/11.png": "/dinasavra/static/media/11.84f8a1abdbb1126a4231.png",
+    "static/media/wing.jpeg": "/dinasavra/static/media/wing.7ea2a8b84ff89533c855.jpeg",
+    "static/media/13.png": "/dinasavra/static/media/13.57d93419c6a08df28509.png",
+    "static/media/9.png": "/dinasavra/static/media/9.5c0f193cd689c91400d3.png",
+    "index.html": "/dinasavra/index.html",
+    "main.6c53c327.css.map": "/dinasavra/static/css/main.6c53c327.css.map",
+    "main.69b2898a.js.map": "/dinasavra/static/js/main.69b2898a.js.map",
+    "787.1fffb58a.chunk.js.map": "/dinasavra/static/js/787.1fffb58a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c53c327.css",
+    "static/js/main.69b2898a.js"
+  ]
+}
