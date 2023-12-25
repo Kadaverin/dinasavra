@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+body, html {
+  height: 100v;
+  overflow: scroll;
+  background-color: #ffe9f4;
+  font-size: 21px;
+  font-family: Spectral, serif;
+}
+
+#root {
+  height: 100%
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
